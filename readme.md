@@ -12,7 +12,14 @@ Next will be learned such branches of Deep Learning, as Artificial Neural Networ
 
 ## Part 1: ANN
 
-(to be completed)
+In this section:
+
+* Was taught the ANN intuition in general
+* Was built and taught the ANN model for binary classification on the bank churn data
+
+Additional to do:
+* Regression model
+* Multiclass model
 
 ## Part 2: CNN
 
