@@ -17,13 +17,20 @@ In this section:
 * Was taught the ANN intuition in general
 * Was built and taught the ANN model for binary classification on the bank churn data
 
+Note: this part is a repeat from the "Machine Learning A-Z" course and hence was done beforehand
+
 Additional to do:
 * Regression model
 * Multiclass model
 
 ## Part 2: CNN
 
-(to be completed)
+In this section:
+
+* Was taught the CNN intuition and theory
+* Was built and taught the CNN model for images classification
+
+Note: this part is a repeat from the "Machine Learning A-Z" course and hence was done beforehand
 
 ## Part 3: RNN
 
